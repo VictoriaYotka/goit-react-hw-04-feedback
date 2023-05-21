@@ -1,0 +1,16 @@
+.descr,
+.item {
+  font-size: 18px;
+  margin-bottom: 8px;
+}
+
+.item:first-letter {
+  text-transform: uppercase;
+}
+
+.number {
+  padding: 0 8px;
+
+  border: 1px solid green;
+  border-radius: 8px;
+}
